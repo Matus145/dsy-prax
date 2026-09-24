@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+  
+  h1 {
+    color: red;
+  }
+  body {
+    background-color: rgb(227, 205, 159);
+  }
+  </style>
+
+  <meta charset = "utf-8">
+  <meta name = "viewport" content"width-device-width, initial-scael=1-0">
+  <title>Recept na palacinky</title>
+  <meta name = "description" content="">
+  <link rel = "shortcut icon" href= "davidcon.ico">
+  <link rel="canonical! href">
+  
+  </head>
+  
+    <body>
+    
+    <h1>Palacinky recept</h1><br>
+    
+    <a href = "https://varecha.pravda.sk/recepty/palacinky-fotorecept/60785-recept.html" title = "palacinky" target = "_blank">
+    <img src="C:\Users\mesiarikm25\OneDrive - Stredná priemyselná škola informačných technológií/prax-2-dsy/obrazky-dsy/palacinky.jpg" 
+    width = "250" height = "250" title = "chutne-palacinky" alt="chutne-palacinky"><br></a>
+    
+    <h2>Suroviny</h2>
+    <p>500 ml mlieko</p>     
+    <p>10  PL hladká múka</p>
+    <p>2  ks celé vajcia</p>
+	<p>1 ks balenia cukor vanilkový</p>
+    <p>štipka soľ</p>
+	<img src="\prax-2-dsy\obrazky-dsy\muka.jpg" alt = "muka", title = "muka">
+    <h2>Postup</h2>
+    <p>1.Nachystáme si suroviny</p>
+    <p>2.Všetky suroviny si dáme do jednej misky</p>
+    <p>3.Mixujeme s mixérom ...a necháme aspoň 15-20 minút odpočívať</p>
+    <p>4.Skontrolujeme či má cesto správnu hustotu</p>
+    <p>5.Vymastíme si panvicu s olejom a poriadne rozohrejeme panvicu ,a môžeme piecť</p>
+    <p>6.Upečené palacinky si ochutíme podľa vlastnej preferencie</p>
+    
+    odkaz na obrazky: 
+    <a href="https://pixabay.com/" target="_blank">obrazky</a>
+    
+    </body>
+    
+</html>
