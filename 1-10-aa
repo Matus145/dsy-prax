@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+  body {
+    font-family: Arial;
+  }
+  h1 {
+    color: rgb(97, 158, 237);
+  }
+  body {
+    background-color: rgb(224, 184, 128);
+  }
+  #prvy {
+    color: rgb(97, 158, 237)
+  }
+  #druhy {
+    color: rgb(97, 158, 237)
+  }
+  .kurziva {
+    font-style: italic;
+  }
+  </style>
+  <meta charset = "utf-8">
+  <meta name = "viewport" content="width-device-width, initial-scael=1.0">
+  <title>Recept na palacinky</title>
+  <meta name = "description" content="">
+  <link rel = "shortcut icon" href= "favicon.ico">
+  <link rel="canonical" href="">
+  </head>
+    <body>
+    <h1>Recept na palacinky</h1><br>
+    <a href = "https://varecha.pravda.sk/recepty/palacinky-fotorecept/60785-recept.html" title = "palacinky" target = "_blank">
+    <img src="../mesiarikm/obrazky-dsy/palacinky-s-ovocim1.jpg" 
+    width = "250" height = "233" title = "chutne-palacinky" alt="chutne-palacinky"><br></a>
+    <h2 id = "prvy">Suroviny</h2>
+    <div class = "kurziva">
+    <ol>
+    <li><p>500 ml mlieko</p></li>     
+    <li><p>10  PL hladká múka</p></li>
+    <li><p>2  ks celé vajcia</p></li>
+	<li><p>1 ks balenia cukor vanilkový</p></li>
+    <li><p>štipka soľ</p></li>
+    </ol>
+    </div>
+	<img src="../mesiarikm/obrazky-dsy/muka-muka.jpg" alt = "hladka-muka", title = "hladka-muka" width = "350" height = "260">
+    <h2 id = "druhy">Postup</h2>
+    <ol>
+    <li><p>Nachystáme si suroviny</p></li>
+    <li><p>Všetky suroviny si dáme do jednej misky</p></li>
+    <li><p>Mixujeme s mixérom ...a necháme aspoň 15-20 minút odpočívať</p></li>
+    <li><p>Skontrolujeme či má cesto správnu hustotu</p></li>
+    <li><p>Vymastíme si panvicu s olejom a poriadne rozohrejeme panvicu ,a môžeme piecť</p></li>
+    <li><p>Upečené palacinky si ochutíme podľa vlastnej preferencie</p></li>
+    </ol>
+    Zdroje obrazkov: 
+    <a href="https://pixabay.com/" target="_blank">obrazky-pixabay</a>
+    </body>
+</html>
